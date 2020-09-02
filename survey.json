@@ -1,5 +1,5 @@
-"survey": [
-    {
+[
+   {
     "typeField": "number",
     "label": "Africell",
     "required": false,
