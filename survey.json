@@ -1,8 +1,8 @@
-[
+
   {
     "typeField": "number",
     "label": "Africell",
-    "required": false,
+    "required": "false",
     "name": "field_s5_1598281324974",
     "class": "",
     "tipText": "",
@@ -13,4 +13,4 @@
     "step": "",
     "sufix": ""
   }
-]
+
