@@ -1,0 +1,50 @@
+[
+    {
+    "typeField": "number",
+    "label": "Africell",
+    "required": false,
+    "name": "field_s5_1598281324974",
+    "class": "",
+    "tipText": "",
+    "placeholder": "",
+    "value": "",
+    "min_value": "",
+    "max_value": "",
+    "step": "",
+    "sufix": ""
+},
+{
+    "typeField": "number",
+    "label": "Vodacom",
+    "required": false,
+    "name": "field_sf_1598281338729",
+    "class": "",
+    "tipText": "",
+    "placeholder": "",
+    "value": "",
+    "min_value": "",
+    "max_value": "",
+    "step": "",
+    "sufix": ""
+},
+{
+    "typeField": "number",
+    "label": "Orange",
+    "required": false,
+    "name": "field_e_1598281348518",
+    "class": "",
+    "tipText": "",
+    "placeholder": "",
+    "value": "",
+    "min_value": "",
+    "max_value": "",
+    "step": "",
+    "sufix": ""
+},
+{
+    "typeField": "button",
+    "label": "finish",
+    "type": "button",
+    "class": ""
+}
+]
