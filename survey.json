@@ -1,5 +1,4 @@
-{
-	students:[
+[
 		{
 			firstname: "Richard",
 			lastname: "Levi",
@@ -25,5 +24,6 @@
 			lastname: "Jones",
 			age: "25"
 		}
+	}
 	]
-}
+
