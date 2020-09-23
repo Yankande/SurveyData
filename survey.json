@@ -1,52 +1,63 @@
 [
 
+    
     {
-      "typeField": "number",
-      "label": "Africell",
-      "required": false,
-      "name": "field_s5_1598281324974",
-      "class": "",
-      "tipText": "",
-      "placeholder": "",
-      "value": "",
-      "min_value": "",
-      "max_value": "",
-      "step": "",
-      "sufix": ""
-    },
-    {
-      "typeField": "number",
-      "label": "Vodacom",
-      "required": false,
-      "name": "field_sf_1598281338729",
-      "class": "",
-      "tipText": "",
-      "placeholder": "",
-      "value": "",
-      "min_value": "",
-      "max_value": "",
-      "step": "",
-      "sufix": ""
-    },
-    {
-      "typeField": "number",
-      "label": "Orange",
-      "required": false,
-      "name": "field_e_1598281348518",
-      "class": "",
-      "tipText": "",
-      "placeholder": "",
-      "value": "",
-      "min_value": "",
-      "max_value": "",
-      "step": "",
-      "sufix": ""
-    },
-    {
-      "typeField": "button",
-      "label": "finish",
-      "type": "button",
-      "class": ""
+      "id": 1,
+      "surveyId": 1,
+      "title": "Form 1",
+      "version": "1.0",
+      "description": "my description",
+      "schema": [
+        {
+          "typeField": "text",
+          "label": "",
+          "required": false,
+          "type": "text",
+          "name": "field_af_1599467685937",
+          "class": "",
+          "tipText": "",
+          "placeholder": "",
+          "value": "",
+          "min_length": "",
+          "max_length": "",
+          "sufix": ""
+        },
+        {
+          "typeField": "number",
+          "label": "",
+          "required": false,
+          "name": "field_l_1599467687206",
+          "class": "",
+          "tipText": "",
+          "placeholder": "",
+          "value": "",
+          "min_value": "",
+          "max_value": "",
+          "step": "",
+          "sufix": ""
+        },
+        {
+          "typeField": "textArea",
+          "label": "",
+          "required": false,
+          "name": "field_ne_1599467690461",
+          "class": "",
+          "tipText": "",
+          "placeholder": "",
+          "value": "",
+          "min_length": "",
+          "max_length": "",
+          "cols": "30",
+          "rows": "10"
+        },
+        {
+          "typeField": "button",
+          "label": "",
+          "type": "button",
+          "class": ""
+        }
+      ]
     }
+
   ]
 
